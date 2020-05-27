@@ -1,6 +1,7 @@
 # caffeapp
 
 A new Flutter application.
+This program is to help people choose the right number of sugar spoons and darkness of this caffee
 
 ## Getting Started
 
