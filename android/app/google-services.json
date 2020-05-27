@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "933827513377",
+    "firebase_url": "https://cafe-res.firebaseio.com",
+    "project_id": "cafe-res",
+    "storage_bucket": "cafe-res.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933827513377:android:71746df1236ac127c12760",
+        "android_client_info": {
+          "package_name": "com.example.flutter1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933827513377-l0he7fst9ngsmqvmmp1unpsr635ah3m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGwu7VMJD4buRieEAa6xeHgrbFW64r0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933827513377-l0he7fst9ngsmqvmmp1unpsr635ah3m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933827513377-m0p6j12h7280j3b64lnt74bkvacadrgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mic.flutterApp111"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933827513377:android:44e172c9412f09e7c12760",
+        "android_client_info": {
+          "package_name": "com.mic.cafeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933827513377-l0he7fst9ngsmqvmmp1unpsr635ah3m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGwu7VMJD4buRieEAa6xeHgrbFW64r0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933827513377-l0he7fst9ngsmqvmmp1unpsr635ah3m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933827513377-m0p6j12h7280j3b64lnt74bkvacadrgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mic.flutterApp111"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933827513377:android:fe3d5eafefe0c8bec12760",
+        "android_client_info": {
+          "package_name": "go.mic.caffeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933827513377-l0he7fst9ngsmqvmmp1unpsr635ah3m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGwu7VMJD4buRieEAa6xeHgrbFW64r0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933827513377-l0he7fst9ngsmqvmmp1unpsr635ah3m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933827513377-m0p6j12h7280j3b64lnt74bkvacadrgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mic.flutterApp111"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
